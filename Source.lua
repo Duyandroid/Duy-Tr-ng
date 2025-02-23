@@ -9326,5 +9326,5 @@ end);
 v14:Notify({
     Title = "DuyAdr",
     Content = "Tải Xong",
-    Duration = 10
+    Duration = 12
 });
